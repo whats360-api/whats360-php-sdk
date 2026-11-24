@@ -1,6 +1,6 @@
-# Whats360 PHP SDK (PHP WhatsApp API client)
+# whats360.live PHP SDK (PHP WhatsApp API client)
 
-Small PHP client (7.4+, cURL) for the [Whats360](https://whats360.live) WhatsApp API: send messages, manage devices, create and start campaigns.
+Small PHP client (7.4+, cURL) for the [whats360.live](https://whats360.live) WhatsApp API: send messages, manage devices, create and start campaigns.
 
 ```php
 require 'Client.php';
@@ -13,4 +13,4 @@ Methods: `sendText, sendImage, sendVideo, sendAudio, sendDoc, listDevices, creat
 ## Status
 Written from the official reference. **Not executed**: PHP was not available in the build environment, so there is neither a syntax check nor a live test. The equivalent [Node.js SDK](https://github.com/whats360-api/whats360-nodejs-sdk) has mock tests. Treat this as an example until you run it.
 
-Never commit your token. Support: https://wa.me/whats360.live · info@whats360.live
+Never commit your token. WhatsApp: https://wa.me/whats360.live · Direct chat support: https://wa.me/201030741766 · info@whats360.live

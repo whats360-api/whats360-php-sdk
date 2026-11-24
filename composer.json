@@ -1,6 +1,6 @@
 {
   "name": "whats360/whats360-php-sdk",
-  "description": "PHP client for the Whats360 WhatsApp API: send messages, manage devices, run campaigns.",
+  "description": "PHP client for the whats360.live WhatsApp API: send messages, manage devices, run campaigns.",
   "keywords": ["whatsapp", "whatsapp-api", "whats360", "php", "webhook"],
   "homepage": "https://whats360.live",
   "license": "MIT",
